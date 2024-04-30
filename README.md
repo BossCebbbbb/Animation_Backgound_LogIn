@@ -1,1 +1,2 @@
-# First_Project
+# HTML, CSS and Javascript
+# Animation background
